@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ryanmathews/Projects/4103-mini2",
+      "program": "/Users/ryanmathews/Projects/4103-mini2/build/Debug/outDebug"
+    }
+  ]
+}
